@@ -12,7 +12,7 @@
     p Es importante que para la consecución de los objetivos, el cliente debe convertirse en un participante más de la consecución y construcción de proyecto, aportando en la creación y el desarrollo de los objetivos planteados; la definición del alcance del proyecto abarca un conjunto de herramientas que deberán definirse con anterioridad, al igual que es importante desarrollar objetivos alcanzables, es de igual importancia poder indicar las limitaciones o parámetros que no estarán contenidos en el proyecto. 
     p Entender estos alcances otorgan la posibilidad de elaborar cambios en el momento preciso, establecer las metas y los progresos de los proyectos.
     .col-lg-10.mx-auto
-      .cajon.color-primario.p-4
+      .cajon.color-primario.p-4.mb-4
         p.mb-0 Teniendo presente estos objetivos, se debe dar paso a la verificación del alcance, este proceso consiste en la revisión constante de todos los objetivos del proyecto, revisar las fases de entrega, para asegurar que se completó satisfactoriamente una fase o entregable, este control no corresponde simplemente a la entrega de información, sino, que se refiere a comprobar que evidentemente los entregables cumplen con la solución de los objetivos pactados.
     p Por otra parte, el control o monitoreo asegura que todos los cambios o las correcciones pactadas en cualquier fase del proyecto se solucionen antes de dar paso a otras fases, ya que se podría entrar en un punto nocivo, dado que las soluciones planteadas podrían no dar las soluciones esperadas y da a perseguir otras opciones que no dan respuesta, cambiando estas fases de control. 
     p Ahora que se tienen más claro los alcances y objetivos, se podría resumir en cinco pasos, la forma como se debería definir el alcance.
