@@ -19,10 +19,10 @@
       ul.lista-ul.mb-5
         li 
           i.fas.fa-pen-square.cab
-          | ●	Datos: son representaciones simbólicas (numéricas, alfabéticas o alfanuméricas) que según la guía PMBOK; se obtienen como resultado de los procesos llevados a cabo en las diferentes fases del proyecto (análisis, planificación, ejecución, evaluación) y se distribuyen a los integrantes del equipo para su análisis e interpretación.
+          | Datos: son representaciones simbólicas (numéricas, alfabéticas o alfanuméricas) que según la guía PMBOK; se obtienen como resultado de los procesos llevados a cabo en las diferentes fases del proyecto (análisis, planificación, ejecución, evaluación) y se distribuyen a los integrantes del equipo para su análisis e interpretación.
         li 
           i.fas.fa-pen-square.cab
-          | ●	Información: los datos recopilados en las diferentes fases son analizados e interpretados para convertirse en información que puede ser distribuida a los miembros del proyecto a través de un informe.
+          | Información: los datos recopilados en las diferentes fases son analizados e interpretados para convertirse en información que puede ser distribuida a los miembros del proyecto a través de un informe.
     h3 Tipos de Informes
     p.mb-5 Los informes representan el desempeño del proyecto en sus diferentes fases, comunicando su situación durante el tiempo de ejecución.
     .titulo-sexto.color-acento-contenido
@@ -35,37 +35,37 @@
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe de requisitos: presenta al cliente y a los usuarios del proyecto, todos los requerimientos tecnológicos, humanos y demás, necesarios para su ejecución y terminación.
+            p.mb-0 <b>Informe de requisitos:</b> presenta al cliente y a los usuarios del proyecto, todos los requerimientos tecnológicos, humanos y demás, necesarios para su ejecución y terminación.
       .tarjeta-avatar-b.mb-5
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe de costos: proporciona información del presupuesto para la producción del proyecto, discriminando los recursos, haciendo las estimaciones y proyecciones hasta su terminación.
+            p.mb-0 <b>Informe de costos:</b> proporciona información del presupuesto para la producción del proyecto, discriminando los recursos, haciendo las estimaciones y proyecciones hasta su terminación.
       .tarjeta-avatar-b.mb-5
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe del diseño del prototipo gráfico e interactivo del proyecto: presenta el modelo operativo del producto elaborado con la retroalimentación de los usuarios y necesario para minimizar errores en la construcción.
+            p.mb-0 <b>Informe del diseño del prototipo gráfico e interactivo del proyecto:</b> presenta el modelo operativo del producto elaborado con la retroalimentación de los usuarios y necesario para minimizar errores en la construcción.
       .tarjeta-avatar-b.mb-5
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe de pruebas de usabilidad y accesibilidad: después de realizar las pruebas con los beneficiarios del proyecto se debe comunicar acerca de la funcionalidad percibida por ellos de acuerdo con su experiencia de usuario.
+            p.mb-0 <b>Informe de pruebas de usabilidad y accesibilidad:</b> después de realizar las pruebas con los beneficiarios del proyecto se debe comunicar acerca de la funcionalidad percibida por ellos de acuerdo con su experiencia de usuario.
       .tarjeta-avatar-b.mb-5
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe de resultado de rendimiento de los aplicativos desarrollados: al incorporar los ajustes, resultado de la prueba de usabilidad y accesibilidad se realiza un informe de control de cambios que evidencia la eficiencia del producto.
+            p.mb-0 <b>Informe de resultado de rendimiento de los aplicativos desarrollados:</b> al incorporar los ajustes, resultado de la prueba de usabilidad y accesibilidad se realiza un informe de control de cambios que evidencia la eficiencia del producto.
       .tarjeta-avatar-b.mb-5
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe de evaluación de la experiencia de usuario: después de todas las evaluaciones realizadas al producto multimedia de acuerdo con la experiencia de los usuarios sobre su desempeño y funcionalidad, se debe realizar un resumen ejecutivo de los cambios realizados para su puesta a punto e implementación. 
+            p.mb-0 <b>Informe de evaluación de la experiencia de usuario:</b> después de todas las evaluaciones realizadas al producto multimedia de acuerdo con la experiencia de los usuarios sobre su desempeño y funcionalidad, se debe realizar un resumen ejecutivo de los cambios realizados para su puesta a punto e implementación. 
       .tarjeta-avatar-b.mb-5
         img(src='@/assets/curso/icono-documento2.svg' alt='Icono relacionado ')
         .tarjeta.tarjeta--azul
           .p-4
-            p.mb-0 ●	Informe de cierre: es la documentación formal que indica la terminación y entrega del proyecto multimedia desarrollado, el cual deberá incluir un resumen del cierre de cada fase con el cumplimiento de objetivos y costos presupuestados al igual que los derechos de accesibilidad y usabilidad que tienen el cliente y los usuarios beneficiados.
+            p.mb-0 <b>Informe de cierre:</b> es la documentación formal que indica la terminación y entrega del proyecto multimedia desarrollado, el cual deberá incluir un resumen del cierre de cada fase con el cumplimiento de objetivos y costos presupuestados al igual que los derechos de accesibilidad y usabilidad que tienen el cliente y los usuarios beneficiados.
     p.mb-5 Se pueden utilizar diferentes modelos para elaborar un informe de acuerdo con la conveniencia del equipo y/o analista del proyecto en cuanto a facilidad de elaboración para una entrega oportuna y la simplicidad y claridad para el cliente, de la información contenida en este. 
     .col-lg-8.mx-auto
       .tarjeta.color-secundario.p-3.mb-5
@@ -106,7 +106,7 @@
         .tarjeta-numerada__numero
           .h2 5
         p.text-center <b>Tipo de Informe:</b> Como se mencionó anteriormente hay varios informes que se presentan de acuerdo con las entregas que se realizan en las diferentes fases del proyecto. En la plantilla se marca una “X” al frente del informe que corresponda. En este caso está marcado el informe de Diseño de prototipo.
-      .tarjeta-numerada.color-primario.p-5(x="22%" y="34%")
+      .tarjeta-numerada.color-primario.p-5(x="33%" y="22%")
         .tarjeta-numerada__numero
           .h2 6
         p.text-center <b>Objetivos:</b> Desarrollar una tienda online para la venta en línea de artículos deportivos. 

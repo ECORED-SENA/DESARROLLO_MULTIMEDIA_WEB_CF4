@@ -152,32 +152,32 @@
           .tarjeta.tarjeta--noborad
             .p-4
               h2 Fluidez
-              p habilidad de ofrecer numerosas alternativas frente a un problema. 
+              p Habilidad de ofrecer numerosas alternativas frente a un problema. 
         .tarjeta-avatar-bt
           img(src='@/assets/curso/icon-abstracto1.svg' alt='icono relacionado')
           .tarjeta.tarjeta--noborad
             .p-4
               h2 Flexibilidad
-              p capacidad de desarrollar una perspectiva múltiple de un asunto. 
+              p Capacidad de desarrollar una perspectiva múltiple de un asunto. 
         .tarjeta-avatar-bt
           img(src='@/assets/curso/icon-abstracto1.svg' alt='icono relacionado')
           .tarjeta.tarjeta--noborad
             .p-4
               h2 Originalidad
-              p creación de nuevas ideas y su creación de conceptos. 
+              p Creación de nuevas ideas y su creación de conceptos. 
       .col-lg-6
         .tarjeta-avatar-bt
           img(src='@/assets/curso/icon-abstracto1.svg' alt='icono relacionado')
           .tarjeta.tarjeta--noborad
             .p-4
               h2 Redefinición
-              p posibilidad de hallar nuevas utilidades alejadas de los prejuicios habituales. 
+              p Posibilidad de hallar nuevas utilidades alejadas de los prejuicios habituales. 
         .tarjeta-avatar-bt
           img(src='@/assets/curso/icon-abstracto1.svg' alt='icono relacionado')
           .tarjeta.tarjeta--noborad--ultimo
             .p-4
               h2 Elaboración
-              p capacidad de generar información detallada de un tema tratado. 
+              p Capacidad de generar información detallada de un tema tratado. 
     Separador
     #t_1_3.titulo-segundo
       h2 1.3 Uso de plataformas tecnológicas para coordinar equipos de trabajo
@@ -195,56 +195,56 @@
       .row(titulo="Trello")
         .col-lg-4.mx-auto
           p Herramienta para organizar proyectos a través de tableros. Se comparten documentos y conversaciones en tiempo real, con compañeros de trabajo. Tiene la posibilidad de integrar otras aplicaciones y herramientas.
-          h5 www.trello.com
+          h5 <a href="//www.trello.com" target="_blank">www.trello.com</a>
           img(src="@/assets/curso/t1/f26.png" alt="Trello")
         .col-lg-7
           img(src="@/assets/curso/t1/f27.png" alt="Trello")
       .row(titulo="Google Drive")
         .col-lg-4.mx-auto
           p Es uno de los más utilizados para trabajos en grupo, dispone de 15GB de almacenamiento tipo nube; se comparten y editan documentos en tiempo real, se apalanca de todas las herramientas de Google.
-          h5 drive.google.com
+          h5 <a href="//drive.google.com" target="_blank">drive.google.com</a>
           img(src="@/assets/curso/t1/f28.png" alt="Google Drive")
         .col-lg-7
           img(src="@/assets/curso/t1/f29.png" alt="Google Drive")
       .row(titulo="Mind")
         .col-lg-4.mx-auto
           p Herramienta ideal al momento de organizar como un mapa mental, los miembros añaden ideas, documentos, materiales, para poder compartirlos luego. Incluye chat integrado.
-          h5 www.mindmeister.com
+          h5 <a href="//www.mindmeister.com" target="_blank">www.mindmeister.com</a>
           img(src="@/assets/curso/t1/f30.png" alt="Mind")
         .col-lg-7
           img(src="@/assets/curso/t1/f31.png" alt="Mind")
       .row(titulo="Slack")
         .col-lg-4.mx-auto
           p Herramienta enfocada a facilitar la comunicación dentro del grupo, incluye compartir mensajes, archivos, documentos, etc. Puede integrarse con plataformas como Twitter, DropBox y Google Drive.
-          h5 www.slack.com
+          h5 <a href="//www.slack.com" target="_blank">www.slack.com</a>
           img(src="@/assets/curso/t1/f32.png" alt="Slack")
         .col-lg-7
           img(src="@/assets/curso/t1/f33.png" alt="Slack")
       .row(titulo="Notion")
         .col-lg-4.mx-auto
           p Una de las mejores aplicaciones de productividad, bloc de notas, recordatorios, colaboración real con otros usuarios, tener conversaciones y comentarios, lo más importante es poder usar plantillas que otros usuarios han creado.
-          h5 www.notion.so
+          h5 <a href="//www.notion.so" target="_blank">www.notion.so</a>
           img(src="@/assets/curso/t1/f34.png" alt="Notion")
         .col-lg-7
           img(src="@/assets/curso/t1/f35.png" alt="Notion")
       .row(titulo="Asana")
         .col-lg-4.mx-auto
           p Una de las más populares, es una herramienta que organiza tareas por equipos y por proyectos, gestión de fechas, con entornos flexibles y ágiles, con opciones de verificar tareas o actividades.
-          h5 www.asana.com
+          h5 <a href="//www.asana.com" target="_blank">www.asana.com</a>
           img(src="@/assets/curso/t1/f36.png" alt="Asana")
         .col-lg-7
           img(src="@/assets/curso/t1/f37.png" alt="Asana")
       .row(titulo="Dropbox")
         .col-lg-4.mx-auto
           p Es un servidor para alojar y compartir archivos en línea y entre varios ordenadores, organizando todo en la nube; puede sincronizarse desde diferentes plataformas de una forma muy segura para todos.
-          h5 www.dropbox.com
+          h5 <a href="//www.dropbox.com" target="_blank">www.dropbox.com</a>
           img(src="@/assets/curso/t1/f38.png" alt="Dropbox")
         .col-lg-7
           img(src="@/assets/curso/t1/f39.png" alt="Dropbox")
       .row(titulo="IdeaFlip")
         .col-lg-4.mx-auto
           p Es una herramienta que permite trabajar en equipo, realizar lluvia de ideas, desarrollar nuevas ideaciones y trabajarlas en equipo. Es una app muy sencilla, se pueden compartir imágenes y PDF, usar stickers a manera de notas, conectarlas, organizarlas, etc.
-          h5 www.ideaflip.com
+          h5 <a href="//www.ideaflip.com" target="_blank">www.ideaflip.com</a>
           img(src="@/assets/curso/t1/f40.png" alt="IdeaFlip")
         .col-lg-7
           img(src="@/assets/curso/t1/f41.png" alt="IdeaFlip")
