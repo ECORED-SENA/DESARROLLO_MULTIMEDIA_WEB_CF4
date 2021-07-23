@@ -89,7 +89,7 @@
       .tarjeta-numerada.color-primario.p-5(x="14%" y="9%")
         .tarjeta-numerada__numero
           .h2 1
-        p.text-center <b>Proyecto:</b> Tienda on-line Sylver; es el nombre del proyecto multimedia que se va a ejecutar. 
+        p.text-center <b>Proyecto:</b> tienda on-line Sylver; es el nombre del proyecto multimedia que se va a ejecutar. 
       .tarjeta-numerada.color-primario.p-5(x="45%" y="9%")
         .tarjeta-numerada__numero
           .h2 2
@@ -105,47 +105,47 @@
       .tarjeta-numerada.color-primario.p-5(x="77%" y="6%")
         .tarjeta-numerada__numero
           .h2 5
-        p.text-center <b>Tipo de Informe:</b> Como se mencionó anteriormente hay varios informes que se presentan de acuerdo con las entregas que se realizan en las diferentes fases del proyecto. En la plantilla se marca una “X” al frente del informe que corresponda. En este caso está marcado el informe de Diseño de prototipo.
+        p.text-center <b>Tipo de Informe:</b> como se mencionó anteriormente hay varios informes que se presentan de acuerdo con las entregas que se realizan en las diferentes fases del proyecto. En la plantilla se marca una “X” al frente del informe que corresponda. En este caso está marcado el informe de Diseño de prototipo.
       .tarjeta-numerada.color-primario.p-5(x="33%" y="22%")
         .tarjeta-numerada__numero
           .h2 6
-        p.text-center <b>Objetivos:</b> Desarrollar una tienda online para la venta en línea de artículos deportivos. 
+        p.text-center <b>Objetivos:</b> desarrollar una tienda online para la venta en línea de artículos deportivos. 
       .tarjeta-numerada.color-primario.p-5(x="36%" y="47%")
         .tarjeta-numerada__numero
           .h2 7
-        p.text-center <b>Fase / Actividad del Proyecto (Avances):</b> Cada actividad entregable se ubica dentro de una fase del proyecto (análisis, planificación, ejecución, evaluación) para que el cliente tenga claridad en qué etapa se encuentra el proyecto y pueda verificar contra el plan de trabajo entregado si su ejecución está desfasada. En este caso la fase corresponde a Planificación y la actividad realizada fue el Diseño del prototipo.
+        p.text-center <b>Fase / Actividad del Proyecto (Avances):</b> cada actividad entregable se ubica dentro de una fase del proyecto (análisis, planificación, ejecución, evaluación) para que el cliente tenga claridad en qué etapa se encuentra el proyecto y pueda verificar contra el plan de trabajo entregado si su ejecución está desfasada. En este caso la fase corresponde a Planificación y la actividad realizada fue el Diseño del prototipo.
       .tarjeta-numerada.color-primario.p-5(x="63%" y="47%")
         .tarjeta-numerada__numero
           .h2 8
-        p.text-center <b>Cifras del proyecto:</b> Este aspecto corresponde a los costos presupuestados y las fechas de entrega del producto pactado en el cronograma, es decir se compara planificado Vs ejecutado, para detectar fácilmente si hubo alguna dificultad o problema con el desarrollo de la actividad. En este caso el costo planificado y ejecutado fue de $5.000.000, lo que indica que no hubo ningún contratiempo en este aspecto, igualmente el plazo de entrega planificado y ejecutado fue 20/06/2021 y 19/06/2021 respectivamente; esto quiere decir que el término de la actividad fue antes de lo previsto.  
+        p.text-center <b>Cifras del proyecto:</b> este aspecto corresponde a los costos presupuestados y las fechas de entrega del producto pactado en el cronograma, es decir se compara planificado Vs ejecutado, para detectar fácilmente si hubo alguna dificultad o problema con el desarrollo de la actividad. En este caso el costo planificado y ejecutado fue de $5.000.000, lo que indica que no hubo ningún contratiempo en este aspecto, igualmente el plazo de entrega planificado y ejecutado fue 20/06/2021 y 19/06/2021 respectivamente; esto quiere decir que el término de la actividad fue antes de lo previsto.  
       .tarjeta-numerada.color-primario.p-5(x="20%" y="64%")
         .tarjeta-numerada__numero
           .h2 9
-        p.text-center <b>Estado de la Actividad:</b> Indica la situación real en la que se encuentra la actividad que en este caso es Terminada. Los diferentes estados de la actividad pueden ser iniciada, en ejecución o terminada.
+        p.text-center <b>Estado de la Actividad:</b> indica la situación real en la que se encuentra la actividad que en este caso es Terminada. Los diferentes estados de la actividad pueden ser iniciada, en ejecución o terminada.
       .tarjeta-numerada.color-primario.p-5(x="60%" y="60%")
         .tarjeta-numerada__numero
           .h2 10
-        p.text-center <b>Problemas / Riesgos:</b> Cada actividad puede presentar contratiempos para llegar al estado terminado, los cuales se deben describir para que el cliente y los usuarios conozcan las dificultades que se pueden presentar en la ejecución. Igualmente se deben especificar los riesgos que se corren para establecer acciones de contingencia que los mitiguen. En este caso no hubo ningún problema en la ejecución de la actividad, pero si se corre el riesgo de que el diseño del prototipo no cumpla con el desempeño que espera el cliente y los usuarios.
+        p.text-center <b>Problemas / Riesgos:</b> cada actividad puede presentar contratiempos para llegar al estado terminado, los cuales se deben describir para que el cliente y los usuarios conozcan las dificultades que se pueden presentar en la ejecución. Igualmente se deben especificar los riesgos que se corren para establecer acciones de contingencia que los mitiguen. En este caso no hubo ningún problema en la ejecución de la actividad, pero si se corre el riesgo de que el diseño del prototipo no cumpla con el desempeño que espera el cliente y los usuarios.
       .tarjeta-numerada.color-primario.p-5(x="73%" y="60%")
         .tarjeta-numerada__numero
           .h2 11
-        p.text-center <b>Acciones Realizadas:</b> De acuerdo con los problemas o riesgos identificados en la realización de las actividades se deben aplicar acciones de mejora que solventen la situación presentada para poder realizar la siguiente actividad sin retrasos en el cronograma. En este caso se debe realizar una prueba con los usuarios para verificar la accesibilidad y usabilidad del producto.
+        p.text-center <b>Acciones Realizadas:</b> de acuerdo con los problemas o riesgos identificados en la realización de las actividades se deben aplicar acciones de mejora que solventen la situación presentada para poder realizar la siguiente actividad sin retrasos en el cronograma. En este caso se debe realizar una prueba con los usuarios para verificar la accesibilidad y usabilidad del producto.
       .tarjeta-numerada.color-primario.p-5(x="82%" y="60%")
         .tarjeta-numerada__numero
           .h2 12
-        p.text-center <b>Responsable:</b> De acuerdo con la acción que se debe realizar se debe definir el responsable de llevarla a cabo, puesto que no solamente el equipo/analista tiene responsabilidades con el producto, también el cliente debe aportar todo lo necesario para que el producto cumpla con las expectativas de los usuarios. En este caso el responsable es el analista/diseñador, ya que es él quien debe diseñar las pruebas que se van a llevar a cabo con los usuarios.
+        p.text-center <b>Responsable:</b> de acuerdo con la acción que se debe realizar se debe definir el responsable de llevarla a cabo, puesto que no solamente el equipo/analista tiene responsabilidades con el producto, también el cliente debe aportar todo lo necesario para que el producto cumpla con las expectativas de los usuarios. En este caso el responsable es el analista/diseñador, ya que es él quien debe diseñar las pruebas que se van a llevar a cabo con los usuarios.
       .tarjeta-numerada.color-primario.p-5(x="94%" y="60%")
         .tarjeta-numerada__numero
           .h2 13
-        p.text-center <b>Fecha de entrega:</b> Corresponde a la fecha real en la que el usuario recibió el producto de la actividad realizada, incluyendo la solución del problema o la mitigación del riesgo que implicó su desarrollo. 
+        p.text-center <b>Fecha de entrega:</b> corresponde a la fecha real en la que el usuario recibió el producto de la actividad realizada, incluyendo la solución del problema o la mitigación del riesgo que implicó su desarrollo. 
       .tarjeta-numerada.color-primario.p-5(x="61%" y="80%")
         .tarjeta-numerada__numero
           .h2 14
-        p.text-center <b>Derechos de usabilidad y accesibilidad:</b> Se utiliza para el informe de cierre, y es un párrafo donde el analista/diseñador responsable, confiere al cliente y usuarios los respectivos derechos de usabilidad y accesibilidad del producto multimedia, de acuerdo con los objetivos planteados al inicio del proyecto.
+        p.text-center <b>Derechos de usabilidad y accesibilidad:</b> se utiliza para el informe de cierre, y es un párrafo donde el analista/diseñador responsable, confiere al cliente y usuarios los respectivos derechos de usabilidad y accesibilidad del producto multimedia, de acuerdo con los objetivos planteados al inicio del proyecto.
       .tarjeta-numerada.color-primario.p-5(x="57%" y="87%")
         .tarjeta-numerada__numero
           .h2 15
-        p.text-center <b>Firmas de aceptación:</b> Se registran las firmas tanto del cliente como del analista/diseñador responsable dando su aceptación al producto multimedia entregado para dar por terminado el proyecto.
+        p.text-center <b>Firmas de aceptación:</b> se registran las firmas tanto del cliente como del analista/diseñador responsable dando su aceptación al producto multimedia entregado para dar por terminado el proyecto.
 </template>
 
 <script>
