@@ -117,7 +117,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Anáhuac, Generación. (2020) ¿Cuáles son las mejores herramientas de comunicación afectiva?',
+        'Anáhuac, Generación. (2020) ¿Cuáles son las mejores técnicas de comunicación afectiva?',
       link:
         'https://www.anahuac.mx/generacion-anahuac/cuales-son-las-mejores-tecnicas-de-comunicacion-efectiva',
     },
@@ -134,13 +134,7 @@ export default {
     {
       referencia:
         'RAE. Diccionario de la lengua española. (2021). Significado de Ortografía.',
-      link: 'https://dle.rae.es',
-    },
-    {
-      referencia:
-        'Manzanares, R. (2017). Técnicas y estrategias para mejorar ortografía, redacción y comprensión de textos en los estudiantes de III, IV y V año.',
-      link:
-        'http://www.feyalegria.org.ni/recursos/sist/pdf/lecto/tecnicas_y_estrategias.pdf',
+      link: 'https://dle.rae.es/ortograf%C3%ADa',
     },
     {
       referencia:
@@ -167,7 +161,7 @@ export default {
     },
     {
       referencia:
-        'Pursell, Shelley. (2021). Cómo crear objetivos SMART para tu empresa.',
+        'Pursell, S. (2021). Cómo crear objetivos SMART para tu empresa.',
       link:
         'https://blog.hubspot.es/marketing/5-ejemplos-de-metas-inteligentes-para-tu-empresa',
     },
@@ -182,13 +176,13 @@ export default {
     },
     {
       referencia:
-        'Vaz, C. (2018). ¿Cómo construir una propuesta comercial de éxito?',
+        'Russo, A. (2022). Propuesta Comercial: cómo hacer una en 3 etapas',
       link:
         'https://www.rdstation.com/co/blog/construir-propuesta-comercial-exito-cliente/',
     },
     {
       referencia:
-        'Villalobos, C. (2020). Secretos para una propuesta comercial efectiva.',
+        'Pursell, S. (2021). Cómo hacer una propuesta comercial efectiva (+ plantilla).',
       link: 'https://blog.hubspot.es/marketing/redactar-propuesta-comercial',
     },
   ],
@@ -272,7 +266,7 @@ export default {
       texto: 'Hubspot. (2021). Plantilla descargable para propuesta comercial.',
       tipo: 'Plantilla',
       descarga:
-        '/downloads/CF04-Anexo-Plantilla propuesta comercial-Hubspot.pdf',
+        'downloads/CF04_Anexo_Plantilla_propuesta_comercial_Hubspot.pdf',
     },
   ],
   creditos: {
